@@ -89,7 +89,7 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB    &trans  &trans    &kp UP_ARROW  &trans     &trans       &trans   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans  &trans    &kp BSPC
+&kp TAB    &trans  &trans    &kp UP_ARROW  &trans     &trans       &trans   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans  &trans    &kp LEFT_BRACKET
 &kp LCTRL  &trans  &kp LEFT  &kp DOWN      &kp RIGHT  &trans       &trans   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans  &kp BSLH  &kp GRAVE
 &kp LSHFT  &trans  &trans    &trans        &trans     &trans       &trans   &kp LEFT_BRACE        &kp RIGHT_BRACE        &trans  &kp PIPE  &kp TILDE
                              &kp LGUI      &trans     &kp SPACE    &kp RET  &trans                &kp RALT
